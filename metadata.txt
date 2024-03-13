@@ -1,7 +1,8 @@
-appliedTime: 2024-03-13  08:48
-applyUrl: https://www.linkedin.com/jobs/view/senior-software-engineer-at-range-3854275313
-companyUrl: https://www.linkedin.com/company/rangefinanceinc?trk=public_jobs_topcard-org-name
-Seniority level: Mid-Senior level
+appliedTime: 2024-03-13  08:51
+originalUrl: https://www.linkedin.com/jobs/view/web-developer-at-hawke-media-3851156488
+applyUrl: https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=91295&clientkey=89E5E747F814A8FD29E64E4244467B7B
+companyUrl: https://www.linkedin.com/company/hawkemedia?trk=public_jobs_topcard-org-name
+Seniority level: Entry level
 Employment type: Full-time
 Job function: Engineering and Information Technology
-Industries: Financial Services
+Industries: Advertising Services
