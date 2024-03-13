@@ -1,0 +1,26 @@
+name: Troy Lewis
+    DOB: 05/23/1995
+    address: 4627 Brunning Ct, Dunwoody, Georgia, 30338, EST
+    phone: 5203652466
+    email: troyylewis314@gmail.com
+    linkedin: https://www.linkedin.com/in/troy-lewis
+    github: 
+
+    summary: Passionate Senior Software Engineer with 10 years of experience in writing complex logics beneath a simple UI/UX. Possesses a keen eye for detail and a design-oriented mindset, which has led to the successful delivery of successful products in SoluLab, OuterLabs, LegalZoom and ServiceNow.
+
+    position-1: Senior Software Engineer @ SoluLab
+    period: 01/15/2022 - still working
+    location: New York, NY
+
+    position-2: Founding Front-End Engineer @ Outer Labs
+    period: 05/10/2018 - 11/01/2021
+    location: San Francisco, CA
+
+    position-3: Senior Full Stack Developer @ LegalZoom
+    period: 11/04/2016 - 04/25/2018
+    location: Glendale, CA
+
+    position-4: Frontend Web Developer @ ServiceNow
+    period: 09/30/2012 - 10/12/2016
+    location: Santa Clara, CA
+    
