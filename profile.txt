@@ -1,26 +1,26 @@
-name: Troy Lewis
+name: Omer Naman
     DOB: 05/23/1995
     address: 4627 Brunning Ct, Dunwoody, Georgia, 30338, EST
-    phone: 5203652466
-    email: troyylewis314@gmail.com
-    linkedin: https://www.linkedin.com/in/troy-lewis
-    github: 
+    phone: 6786660067
+    email: omerxnaman@gmail.com
+    linkedin: https://www.linkedin.com/in/omer-naman
+    github: https://github.com/iforcenick
 
-    summary: Passionate Senior Software Engineer with 10 years of experience in writing complex logics beneath a simple UI/UX. Possesses a keen eye for detail and a design-oriented mindset, which has led to the successful delivery of successful products in SoluLab, OuterLabs, LegalZoom and ServiceNow.
+    summary: Seasoned Software Engineer with over 9 years of experience in developing SaaS and enterprise- level products across various industries. Demonstrated expertise in JavaScript technologies, including React, React Native, Node.js, and AWS. Passionate about driving innovation through technology, with a keen focus on enhancing technical and soft skills. Committed to fostering a positive team environment and delivering exceptional results.
 
-    position-1: Senior Software Engineer @ SoluLab
-    period: 01/15/2022 - still working
+    position-1: Staff Full Stack Engineer @ Cognizant
+    period: 01/10/2023 - still working
+    location: Teaneck, NJ
+
+    position-2: Senior Full Stack Engineer @ Meta
+    period: 05/15/2019 - 12/05/2022
     location: New York, NY
 
-    position-2: Founding Front-End Engineer @ Outer Labs
-    period: 05/10/2018 - 11/01/2021
-    location: San Francisco, CA
+    position-3: Software Engineer @ Shutterfly
+    period: 06/04/2016 - 04/15/2019
+    location: Redwood City, CA
 
-    position-3: Senior Full Stack Developer @ LegalZoom
-    period: 11/04/2016 - 04/25/2018
-    location: Glendale, CA
-
-    position-4: Frontend Web Developer @ ServiceNow
-    period: 09/30/2012 - 10/12/2016
-    location: Santa Clara, CA
+    position-4: Software Engineer Intern @ TriNet
+    period: 07/30/2015 - 05/12/2016
+    location: Austin, TX
     
